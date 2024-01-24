@@ -28,3 +28,7 @@ main{
 .featured{
     color: red;
 }
+.margine{
+    margin-right: 800px;
+    margin-left: 200px;
+}
