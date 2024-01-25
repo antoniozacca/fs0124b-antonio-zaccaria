@@ -15,6 +15,7 @@
 /* FOOTER */
 body{
     background-image: url("../sfondo.png");
+    font-family: 'Poppins', sans-serif;
 }
 #intro {
     background-color: blue;
@@ -36,7 +37,8 @@ body{
     margin-top: 30px;
     background-color: white;
     width: 300px;
-    height: 1000px;
+    height: 500px;
     margin-left: 50px;
     border: 1px solid violet;
+    border-top: none;
 }
