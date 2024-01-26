@@ -35,6 +35,13 @@ footer{
 }
 
 .partiamo{
+   width: 100px;
+height: 30px;
+border: 10px solid black, padding 20px;
+margin: 0 auto;
+vertical-align: middle;
+background-clip: padding-box;
+    bottom: auto;
     text-align: center;
     color: white;
     background-color: orangered;
