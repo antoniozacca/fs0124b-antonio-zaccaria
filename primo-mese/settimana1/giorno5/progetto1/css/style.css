@@ -1,0 +1,63 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    border-inline: #dee1e3;
+    
+}
+#logo{
+    background-color: black;
+    text-align: center;
+   
+}
+.dimimg{
+    width: 200px;
+   
+}
+footer{
+    color: #c8e7f0;
+    
+}
+#backimg{
+    text-align: center;
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    
+}
+#imgsfondo{
+    text-align: center;
+    background-image: url("../img/banner.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.partiamo{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+
+}
+main{
+    text-align: center;
+}
+.colorh{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+}
+.space{
+    padding-top: 20px;
+}
+.bordoimg{
+    border-radius: 500px;
+}
+#colore{
+    background-color: orangered;
+}
+footer{
+    background-color: #25a2c3;
+    text-align: center;
+}
