@@ -58,4 +58,4 @@ let name2 = "John"
 console.log(name1===name2);
 
 //extra
-console.log(name1===name2.toLowerCase(name2))
+console.log(name1.toLowerCase()===name2.toLowerCase())
