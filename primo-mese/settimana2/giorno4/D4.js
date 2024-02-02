@@ -105,7 +105,7 @@ console.log(reverseString(inverti))
 */
 
 function upperFirst(diverseparole){
-    let parole = diverseparole.split("")
+    let parole = diverseparole.split(" ")
     let paroleMaiuscole=[]
     for(let parola of parole){
     let primaLettera = parola[0].toUpperCase();
