@@ -1,17 +1,9 @@
-.logo{
-   background-color: blue;
- height: 50px;
-}
+
 .dimimg{ 
    width: 150px;
-   margin-bottom: 100px;
    object-fit: contain;
 }
-.sfondo2{
-    padding: 10px;
-    background-color: #222f3e ;
-}
-.pdisopra{
+.ann-bar{
     color: white;
     display: flex;
     flex-direction: row;
@@ -55,4 +47,20 @@
     display: inline-block;
     overflow: hidden;
     float: left;
+}
+/*
+refactoring  
+*/
+
+:root{
+    --color-primary:#353E47ff;
+}
+.padding-10{
+    padding: 10px;
+}
+.bg-primary{
+    background-color: var(--color-primary);
+}
+.padding-top-10{
+padding-top: 10px;
 }
